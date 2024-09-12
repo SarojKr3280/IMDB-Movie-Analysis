@@ -4,7 +4,7 @@ Here, success can be defined by high IMDB ratings. <br>
 The impact of this problem is significant for movie producers, directors, and investors who want to understand what makes a movie successful to make informed decisions in their future projects.
 <br>
 <br>
-My goal is not just to answer questions but to provide insights that can drive decision-making. <br>
-My analysis should aim to provide actionable insights that can help stakeholders make informed decisions.
+My goal is to provide insights that can drive decision-making. <br>
+My analysis aim to provide actionable insights that can help stakeholders make informed decisions.
 <br>
 <br>
